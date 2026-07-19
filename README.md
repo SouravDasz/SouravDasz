@@ -1,93 +1,220 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Sourav%20Das&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Generative%20%26%20Agentic%20AI&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<svg width="720" height="70" viewBox="0 0 720 70" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="typeClip">
+      <rect x="0" y="0" height="70" width="0">
+        <animate attributeName="width" from="0" to="720" dur="2.5s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <text x="0" y="45" font-family="Consolas, monospace" font-size="34" font-weight="700" fill="#58A6FF" clip-path="url(#typeClip)">
+    Hi, I'm Sourav Das
+  </text>
+  <rect x="0" y="55" width="4" height="20" fill="#58A6FF">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    <animate attributeName="x" from="0" to="392" dur="2.5s" fill="freeze"/>
+  </rect>
+</svg>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Final-Year+B.Tech+CS+(AI%2FML)+Student;LLMs+%7C+RAG+%7C+Agentic+AI+Systems;Building+Production-Ready+ML+Pipelines" alt="Typing SVG" />
+<h3>AI Engineer &nbsp;•&nbsp; Generative &amp; Agentic AI &nbsp;•&nbsp; ML / DL Enthusiast</h3>
 
-<br/>
+<p>
+  <a href="https://www.linkedin.com/in/sourav-das-90a2b6378/"><b>LinkedIn</b></a> &nbsp;|&nbsp;
+  <a href="mailto:sourav177official@gmail.com"><b>Email</b></a> &nbsp;|&nbsp;
+  <a href="https://github.com/SouravDasz"><b>GitHub</b></a>
+</p>
 
-<a href="https://www.linkedin.com/in/sourav-das-90a2b6378/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:sourav177official@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/SouravDasz"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-
-</div>
-
-<br/>
-
-<img src="https://img.shields.io/badge/-ABOUT-0F2027?style=for-the-badge" />
-
-- B.Tech in Computer Science, specializing in AI/ML, at Brainware University — final year
-- Building toward a career as an **AI Engineer**, with focus on Generative AI and applied ML systems
-- Currently deepening expertise in **LLM fine-tuning, LLMOps, and RAG/agentic pipelines**
-- Growing a portfolio through structured programs, including an applied GenAI bootcamp
-- Comfortable across the ML lifecycle — from model design to API-level deployment
-
-<br/>
-
-<img src="https://img.shields.io/badge/-TECH%20STACK-0F2027?style=for-the-badge" />
-
-<br/><br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+<svg width="720" height="6" viewBox="0 0 720 6" xmlns="http://www.w3.org/2000/svg">
+  <rect width="0" height="6" fill="#58A6FF" rx="3">
+    <animate attributeName="width" from="0" to="720" dur="1.8s" fill="freeze"/>
+  </rect>
+</svg>
 
 </div>
 
 <br/>
 
-| Category | Skills |
+## 🧠 About Me
+
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
+
+- 🎓 Final-year **B.Tech CSE (AI/ML)** student at Brainware University
+- 🤖 Focused on **Generative AI** and **Agentic AI** systems
+- 🛠️ Building hands-on experience with **LLMs, RAG, LangChain, MLOps**
+- 📚 Currently deepening skills in **LLM fine-tuning** and **LLMOps**
+- 🚀 Preparing an industry-ready AI/ML portfolio ahead of placements
+- 📫 Reach me at **sourav177official@gmail.com**
+
+</td>
+<td width="40%" valign="top">
+
+| | |
 |---|---|
-| **Programming & Core ML/DL** | Python, NumPy, Pandas, Scikit-learn, PyTorch, Deep Learning |
-| **Generative & Agentic AI** | LLMs, Transformers, LangChain, Prompt Engineering, RAG |
-| **Frameworks & MLOps** | FastAPI, Hugging Face, Model Deployment, Git/GitHub |
-| **Databases & Tools** | PostgreSQL, SQL, VS Code, Jupyter |
+| 🔭 **Focus** | Gen AI & Agentic Systems |
+| 🌱 **Learning** | LLM Fine-tuning, LLMOps |
+| 💼 **Goal** | AI Engineer Role |
+| 🎯 **Status** | Open to Internships / Jobs |
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://img.shields.io/badge/-GITHUB%20ANALYTICS-0F2027?style=for-the-badge" />
+## 🛠️ Tech Stack
 
-<br/><br/>
+<table width="100%">
+<tr>
+<td valign="top" width="25%">
+
+**Languages**
+- Python
+- SQL
+
+</td>
+<td valign="top" width="25%">
+
+**ML / DL**
+- PyTorch
+- TensorFlow
+- OpenCV
+
+</td>
+<td valign="top" width="25%">
+
+**Gen AI**
+- LangChain
+- Hugging Face
+- RAG / Agents
+
+</td>
+<td valign="top" width="25%">
+
+**Tools**
+- FastAPI
+- PostgreSQL
+- Docker &nbsp;•&nbsp; Git
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## ⚙️ Skill Proficiency
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SouravDasz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouravDasz&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<svg width="680" height="230" viewBox="0 0 680 230" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, monospace" font-size="14">
+  <text x="0" y="15" fill="#C9D1D9">Python</text>
+  <rect x="0" y="22" width="680" height="10" rx="5" fill="#21262D"/>
+  <rect x="0" y="22" height="10" rx="5" fill="#58A6FF" width="0">
+    <animate attributeName="width" from="0" to="612" dur="1.6s" fill="freeze"/>
+  </rect>
 
-<br/>
+  <text x="0" y="60" fill="#C9D1D9">Deep Learning (PyTorch / TF)</text>
+  <rect x="0" y="67" width="680" height="10" rx="5" fill="#21262D"/>
+  <rect x="0" y="67" height="10" rx="5" fill="#F78166" width="0">
+    <animate attributeName="width" from="0" to="530" dur="1.6s" begin="0.15s" fill="freeze"/>
+  </rect>
 
-<img src="https://streak-stats.demolab.com/?user=SouravDasz&theme=tokyonight&hide_border=true" />
+  <text x="0" y="105" fill="#C9D1D9">LangChain / Generative AI</text>
+  <rect x="0" y="112" width="680" height="10" rx="5" fill="#21262D"/>
+  <rect x="0" y="112" height="10" rx="5" fill="#3FB950" width="0">
+    <animate attributeName="width" from="0" to="476" dur="1.6s" begin="0.3s" fill="freeze"/>
+  </rect>
 
-<br/>
+  <text x="0" y="150" fill="#C9D1D9">FastAPI / Backend</text>
+  <rect x="0" y="157" width="680" height="10" rx="5" fill="#21262D"/>
+  <rect x="0" y="157" height="10" rx="5" fill="#D2A8FF" width="0">
+    <animate attributeName="width" from="0" to="422" dur="1.6s" begin="0.45s" fill="freeze"/>
+  </rect>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SouravDasz&theme=tokyo-night&hide_border=true" width="95%" />
+  <text x="0" y="195" fill="#C9D1D9">LLMOps / Fine-tuning (growing)</text>
+  <rect x="0" y="202" width="680" height="10" rx="5" fill="#21262D"/>
+  <rect x="0" y="202" height="10" rx="5" fill="#E3B341" width="0">
+    <animate attributeName="width" from="0" to="292" dur="1.6s" begin="0.6s" fill="freeze"/>
+  </rect>
+</svg>
 
 </div>
 
 <br/>
 
-<img src="https://img.shields.io/badge/-CURRENTLY%20EXPLORING-0F2027?style=for-the-badge" />
+## 🔥 Streak &amp; Activity Board
 
-- Fine-tuning open-source LLMs for domain-specific tasks
-- Multimodal AI systems combining vision and language
-- Agentic AI workflows for real-world, production-style use cases
+> Static board — update the numbers below manually to keep it current.
+
+<div align="center">
+<table>
+<tr>
+<th>Current Streak</th>
+<th>Longest Streak</th>
+<th>Total Contributions</th>
+</tr>
+<tr align="center">
+<td><h2>🔥 0</h2></td>
+<td><h2>🏅 0</h2></td>
+<td><h2>📈 0</h2></td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+
+<svg width="680" height="90" viewBox="0 0 680 90" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(30,15)">
+    <path fill="#F78166" d="M20 0 C10 20, 0 25, 0 42 C0 55, 10 64, 20 64 C30 64, 40 55, 40 42 C40 25, 30 20, 20 0 Z">
+      <animate attributeName="d" dur="1.4s" repeatCount="indefinite" values="
+        M20 0 C10 20, 0 25, 0 42 C0 55, 10 64, 20 64 C30 64, 40 55, 40 42 C40 25, 30 20, 20 0 Z;
+        M20 4 C11 22, 2 26, 2 42 C2 54, 11 62, 20 62 C29 62, 38 54, 38 42 C38 26, 29 22, 20 4 Z;
+        M20 0 C10 20, 0 25, 0 42 C0 55, 10 64, 20 64 C30 64, 40 55, 40 42 C40 25, 30 20, 20 0 Z"/>
+    </path>
+  </g>
+  <text x="90" y="50" font-family="Consolas, monospace" font-size="16" fill="#C9D1D9">
+    Keep the streak alive — commit something today.
+  </text>
+</svg>
+
+</div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer" width="100%"/>
+## 🏆 Milestones
 
 <div align="center">
-<i>Open to AI/ML internship and entry-level opportunities.</i><br/>
-<a href="https://www.linkedin.com/in/sourav-das-90a2b6378/">LinkedIn</a> &nbsp;•&nbsp; <a href="mailto:sourav177official@gmail.com">sourav177official@gmail.com</a>
+<table>
+<tr>
+<td align="center">🎓<br/><b>B.Tech Final Year</b><br/><sub>AI/ML Specialization</sub></td>
+<td align="center">🧪<br/><b>Gen AI Bootcamp</b><br/><sub>In Progress</sub></td>
+<td align="center">💼<br/><b>Placement Prep</b><br/><sub>2 Semesters Left</sub></td>
+<td align="center">📦<br/><b>Portfolio Projects</b><br/><sub>Building</sub></td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+<div align="center">
+
+<svg width="720" height="50" viewBox="0 0 720 50" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#161B22">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite" values="
+      M0,25 Q180,5 360,25 T720,25 V50 H0 Z;
+      M0,25 Q180,45 360,25 T720,25 V50 H0 Z;
+      M0,25 Q180,5 360,25 T720,25 V50 H0 Z"/>
+  </path>
+  <path fill="none" stroke="#58A6FF" stroke-width="2" stroke-opacity="0.6">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite" values="
+      M0,25 Q180,5 360,25 T720,25;
+      M0,25 Q180,45 360,25 T720,25;
+      M0,25 Q180,5 360,25 T720,25"/>
+  </path>
+</svg>
+
+<sub><i>Always open to collaborating on Gen AI &amp; Agentic AI projects — drop a message anytime.</i></sub>
+
 </div>
