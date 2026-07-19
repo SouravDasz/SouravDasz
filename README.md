@@ -1,220 +1,339 @@
 <div align="center">
 
-<svg width="720" height="70" viewBox="0 0 720 70" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <clipPath id="typeClip">
-      <rect x="0" y="0" height="70" width="0">
-        <animate attributeName="width" from="0" to="720" dur="2.5s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
-      </rect>
-    </clipPath>
-  </defs>
-  <text x="0" y="45" font-family="Consolas, monospace" font-size="34" font-weight="700" fill="#58A6FF" clip-path="url(#typeClip)">
-    Hi, I'm Sourav Das
-  </text>
-  <rect x="0" y="55" width="4" height="20" fill="#58A6FF">
-    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
-    <animate attributeName="x" from="0" to="392" dur="2.5s" fill="freeze"/>
-  </rect>
-</svg>
+# Sourav Das
 
-<h3>AI Engineer &nbsp;•&nbsp; Generative &amp; Agentic AI &nbsp;•&nbsp; ML / DL Enthusiast</h3>
+### Artificial Intelligence & Machine Learning Engineer
 
-<p>
-  <a href="https://www.linkedin.com/in/sourav-das-90a2b6378/"><b>LinkedIn</b></a> &nbsp;|&nbsp;
-  <a href="mailto:sourav177official@gmail.com"><b>Email</b></a> &nbsp;|&nbsp;
-  <a href="https://github.com/SouravDasz"><b>GitHub</b></a>
-</p>
+Building intelligent systems with Machine Learning, Deep Learning, Generative AI, and MLOps.
 
-<svg width="720" height="6" viewBox="0 0 720 6" xmlns="http://www.w3.org/2000/svg">
-  <rect width="0" height="6" fill="#58A6FF" rx="3">
-    <animate attributeName="width" from="0" to="720" dur="1.8s" fill="freeze"/>
-  </rect>
-</svg>
+<br>
+
+<img src="https://img.shields.io/badge/AI%20Engineer-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Scientist-1f6feb?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-1f6feb?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=probot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-00A67E?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLOps-9B59B6?style=for-the-badge&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Backend%20Developer-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<br><br>
+
+<a href="https://www.linkedin.com/in/sourav-das-90a2b6378/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sourav177official@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
-<br/>
 
-## 🧠 About Me
+---
 
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
+## About Me
 
-- 🎓 Final-year **B.Tech CSE (AI/ML)** student at Brainware University
-- 🤖 Focused on **Generative AI** and **Agentic AI** systems
-- 🛠️ Building hands-on experience with **LLMs, RAG, LangChain, MLOps**
-- 📚 Currently deepening skills in **LLM fine-tuning** and **LLMOps**
-- 🚀 Preparing an industry-ready AI/ML portfolio ahead of placements
-- 📫 Reach me at **sourav177official@gmail.com**
+I am a Computer Science student specializing in Artificial Intelligence and Machine Learning.
 
-</td>
-<td width="40%" valign="top">
+My focus is on building practical AI systems using:
 
-| | |
-|---|---|
-| 🔭 **Focus** | Gen AI & Agentic Systems |
-| 🌱 **Learning** | LLM Fine-tuning, LLMOps |
-| 💼 **Goal** | AI Engineer Role |
-| 🎯 **Status** | Open to Internships / Jobs |
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Computer Vision
+- Generative AI
+- MLOps
 
-</td>
-</tr>
-</table>
 
-<br/>
+Currently learning and building projects around:
 
-## 🛠️ Tech Stack
+- Large Language Models
+- Retrieval Augmented Generation (RAG)
+- Agentic AI
+- LangChain and LangGraph
+- Model Deployment
+- Production Machine Learning Systems
 
-<table width="100%">
-<tr>
-<td valign="top" width="25%">
 
-**Languages**
-- Python
-- SQL
+---
 
-</td>
-<td valign="top" width="25%">
+# Technical Skills
 
-**ML / DL**
-- PyTorch
-- TensorFlow
-- OpenCV
 
-</td>
-<td valign="top" width="25%">
+## Programming Languages
 
-**Gen AI**
-- LangChain
-- Hugging Face
-- RAG / Agents
+```
+Python
+Java
+JavaScript
+C++
+SQL
+```
 
-</td>
-<td valign="top" width="25%">
 
-**Tools**
-- FastAPI
-- PostgreSQL
-- Docker &nbsp;•&nbsp; Git
+## Machine Learning
 
-</td>
-</tr>
-</table>
+```
+Scikit-Learn
+Pandas
+NumPy
+Matplotlib
+XGBoost
+Feature Engineering
+Model Evaluation
+Hyperparameter Optimization
+```
 
-<br/>
 
-## ⚙️ Skill Proficiency
+Machine Learning Algorithms:
+
+```
+Linear Regression
+Logistic Regression
+Decision Tree
+Random Forest
+SVM
+KNN
+Naive Bayes
+Gradient Boosting
+XGBoost
+K-Means
+PCA
+```
+
+
+## Deep Learning
+
+```
+TensorFlow
+Keras
+PyTorch
+CNN
+RNN
+LSTM
+Transfer Learning
+Computer Vision
+```
+
+
+## Generative AI
+
+```
+LangChain
+LangGraph
+Hugging Face Transformers
+BERT
+LLM Applications
+RAG Architecture
+Embeddings
+Vector Databases
+FAISS
+ChromaDB
+```
+
+
+## Backend Development
+
+```
+FastAPI
+Flask
+REST API Development
+SQLAlchemy
+JWT Authentication
+OAuth2
+Jinja2
+SQLite
+MySQL
+```
+
+
+## MLOps & Deployment
+
+```
+Docker
+Git
+GitHub Actions
+MLflow
+DVC
+CI/CD
+Model Deployment
+Linux
+Cloud Deployment
+```
+
+
+---
+
+# Learning Journey
+
+
+```
+Python
+   |
+   |
+Machine Learning
+   |
+   |
+Deep Learning
+   |
+   |
+NLP & Computer Vision
+   |
+   |
+Generative AI
+   |
+   |
+Agentic AI
+   |
+   |
+MLOps
+```
+
+
+---
+
+# Featured Projects
+
+
+## AI Interview Preparation Platform
+
+AI-powered platform for technical interview preparation.
+
+Features:
+
+- AI interview assistant
+- Question generation
+- Subject-based conversations
+- Interview feedback
+
+
+Technology:
+
+```
+FastAPI
+LLM
+RAG
+Machine Learning
+Vector Database
+```
+
+
+---
+
+
+## PDF Chatbot
+
+A document question-answering system using Retrieval Augmented Generation.
+
+Features:
+
+- PDF document processing
+- Semantic search
+- Context-aware answers
+
+
+Technology:
+
+```
+Python
+LangChain
+Hugging Face
+ChromaDB
+FastAPI
+```
+
+
+---
+
+
+## License Plate Detection System
+
+Computer Vision based vehicle license plate detection system.
+
+Features:
+
+- Object detection
+- OCR extraction
+- Automated recognition
+
+
+Technology:
+
+```
+YOLO
+OpenCV
+EasyOCR
+PyTorch
+```
+
+
+---
+
+# GitHub Analytics
+
 
 <div align="center">
 
-<svg width="680" height="230" viewBox="0 0 680 230" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, monospace" font-size="14">
-  <text x="0" y="15" fill="#C9D1D9">Python</text>
-  <rect x="0" y="22" width="680" height="10" rx="5" fill="#21262D"/>
-  <rect x="0" y="22" height="10" rx="5" fill="#58A6FF" width="0">
-    <animate attributeName="width" from="0" to="612" dur="1.6s" fill="freeze"/>
-  </rect>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SouravDasz&show_icons=true&theme=github_dark&hide_border=true"/>
 
-  <text x="0" y="60" fill="#C9D1D9">Deep Learning (PyTorch / TF)</text>
-  <rect x="0" y="67" width="680" height="10" rx="5" fill="#21262D"/>
-  <rect x="0" y="67" height="10" rx="5" fill="#F78166" width="0">
-    <animate attributeName="width" from="0" to="530" dur="1.6s" begin="0.15s" fill="freeze"/>
-  </rect>
-
-  <text x="0" y="105" fill="#C9D1D9">LangChain / Generative AI</text>
-  <rect x="0" y="112" width="680" height="10" rx="5" fill="#21262D"/>
-  <rect x="0" y="112" height="10" rx="5" fill="#3FB950" width="0">
-    <animate attributeName="width" from="0" to="476" dur="1.6s" begin="0.3s" fill="freeze"/>
-  </rect>
-
-  <text x="0" y="150" fill="#C9D1D9">FastAPI / Backend</text>
-  <rect x="0" y="157" width="680" height="10" rx="5" fill="#21262D"/>
-  <rect x="0" y="157" height="10" rx="5" fill="#D2A8FF" width="0">
-    <animate attributeName="width" from="0" to="422" dur="1.6s" begin="0.45s" fill="freeze"/>
-  </rect>
-
-  <text x="0" y="195" fill="#C9D1D9">LLMOps / Fine-tuning (growing)</text>
-  <rect x="0" y="202" width="680" height="10" rx="5" fill="#21262D"/>
-  <rect x="0" y="202" height="10" rx="5" fill="#E3B341" width="0">
-    <animate attributeName="width" from="0" to="292" dur="1.6s" begin="0.6s" fill="freeze"/>
-  </rect>
-</svg>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouravDasz&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
-<br/>
 
-## 🔥 Streak &amp; Activity Board
+---
 
-> Static board — update the numbers below manually to keep it current.
+# GitHub Streak
 
-<div align="center">
-<table>
-<tr>
-<th>Current Streak</th>
-<th>Longest Streak</th>
-<th>Total Contributions</th>
-</tr>
-<tr align="center">
-<td><h2>🔥 0</h2></td>
-<td><h2>🏅 0</h2></td>
-<td><h2>📈 0</h2></td>
-</tr>
-</table>
-</div>
 
 <div align="center">
 
-<svg width="680" height="90" viewBox="0 0 680 90" xmlns="http://www.w3.org/2000/svg">
-  <g transform="translate(30,15)">
-    <path fill="#F78166" d="M20 0 C10 20, 0 25, 0 42 C0 55, 10 64, 20 64 C30 64, 40 55, 40 42 C40 25, 30 20, 20 0 Z">
-      <animate attributeName="d" dur="1.4s" repeatCount="indefinite" values="
-        M20 0 C10 20, 0 25, 0 42 C0 55, 10 64, 20 64 C30 64, 40 55, 40 42 C40 25, 30 20, 20 0 Z;
-        M20 4 C11 22, 2 26, 2 42 C2 54, 11 62, 20 62 C29 62, 38 54, 38 42 C38 26, 29 22, 20 4 Z;
-        M20 0 C10 20, 0 25, 0 42 C0 55, 10 64, 20 64 C30 64, 40 55, 40 42 C40 25, 30 20, 20 0 Z"/>
-    </path>
-  </g>
-  <text x="90" y="50" font-family="Consolas, monospace" font-size="16" fill="#C9D1D9">
-    Keep the streak alive — commit something today.
-  </text>
-</svg>
+<img src="https://streak-stats.demolab.com?user=SouravDasz&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
-<br/>
 
-## 🏆 Milestones
+---
+
+# Contribution Activity
+
 
 <div align="center">
-<table>
-<tr>
-<td align="center">🎓<br/><b>B.Tech Final Year</b><br/><sub>AI/ML Specialization</sub></td>
-<td align="center">🧪<br/><b>Gen AI Bootcamp</b><br/><sub>In Progress</sub></td>
-<td align="center">💼<br/><b>Placement Prep</b><br/><sub>2 Semesters Left</sub></td>
-<td align="center">📦<br/><b>Portfolio Projects</b><br/><sub>Building</sub></td>
-</tr>
-</table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SouravDasz&theme=github-dark&hide_border=true"/>
+
 </div>
 
-<br/>
+
+---
+
+# Current Objectives
+
+- Build scalable AI applications
+- Develop production-ready ML systems
+- Master Agentic AI workflows
+- Improve MLOps engineering skills
+- Contribute to open-source projects
+
+
+---
+
+# Contact
+
+LinkedIn:
+https://www.linkedin.com/in/sourav-das-90a2b6378/
+
+Email:
+sourav177official@gmail.com
+
+
+---
 
 <div align="center">
 
-<svg width="720" height="50" viewBox="0 0 720 50" xmlns="http://www.w3.org/2000/svg">
-  <path fill="#161B22">
-    <animate attributeName="d" dur="6s" repeatCount="indefinite" values="
-      M0,25 Q180,5 360,25 T720,25 V50 H0 Z;
-      M0,25 Q180,45 360,25 T720,25 V50 H0 Z;
-      M0,25 Q180,5 360,25 T720,25 V50 H0 Z"/>
-  </path>
-  <path fill="none" stroke="#58A6FF" stroke-width="2" stroke-opacity="0.6">
-    <animate attributeName="d" dur="6s" repeatCount="indefinite" values="
-      M0,25 Q180,5 360,25 T720,25;
-      M0,25 Q180,45 360,25 T720,25;
-      M0,25 Q180,5 360,25 T720,25"/>
-  </path>
-</svg>
+Profile Visitors
 
-<sub><i>Always open to collaborating on Gen AI &amp; Agentic AI projects — drop a message anytime.</i></sub>
+<img src="https://komarev.com/ghpvc/?username=SouravDasz&style=flat&color=blue"/>
 
 </div>
